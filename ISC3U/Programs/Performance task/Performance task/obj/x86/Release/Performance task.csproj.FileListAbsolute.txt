@@ -1,0 +1,5 @@
+G:\MyPortfolio\ISC3U\Programs\Performance task\Performance task\bin\Release\Performance task.exe
+G:\MyPortfolio\ISC3U\Programs\Performance task\Performance task\bin\Release\Performance task.pdb
+G:\MyPortfolio\ISC3U\Programs\Performance task\Performance task\obj\x86\Release\Performance task.csprojResolveAssemblyReference.cache
+G:\MyPortfolio\ISC3U\Programs\Performance task\Performance task\obj\x86\Release\Performance task.exe
+G:\MyPortfolio\ISC3U\Programs\Performance task\Performance task\obj\x86\Release\Performance task.pdb

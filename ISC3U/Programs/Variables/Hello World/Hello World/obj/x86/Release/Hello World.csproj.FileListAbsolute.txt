@@ -1,0 +1,5 @@
+G:\MyPortfolio\ISC3U\Programs\Hello World\Hello World\bin\Release\Hello World.exe
+G:\MyPortfolio\ISC3U\Programs\Hello World\Hello World\bin\Release\Hello World.pdb
+G:\MyPortfolio\ISC3U\Programs\Hello World\Hello World\obj\x86\Release\Hello World.exe
+G:\MyPortfolio\ISC3U\Programs\Hello World\Hello World\obj\x86\Release\Hello World.pdb
+G:\MyPortfolio\ISC3U\Programs\Hello World\Hello World\obj\x86\Release\Hello World.csprojResolveAssemblyReference.cache

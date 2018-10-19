@@ -1,0 +1,5 @@
+G:\MyPortfolio\ISC3U\Programs\Theater tickets\Theater tickets\bin\Release\Theater tickets.exe
+G:\MyPortfolio\ISC3U\Programs\Theater tickets\Theater tickets\bin\Release\Theater tickets.pdb
+G:\MyPortfolio\ISC3U\Programs\Theater tickets\Theater tickets\obj\x86\Release\Theater tickets.csprojResolveAssemblyReference.cache
+G:\MyPortfolio\ISC3U\Programs\Theater tickets\Theater tickets\obj\x86\Release\Theater tickets.exe
+G:\MyPortfolio\ISC3U\Programs\Theater tickets\Theater tickets\obj\x86\Release\Theater tickets.pdb
