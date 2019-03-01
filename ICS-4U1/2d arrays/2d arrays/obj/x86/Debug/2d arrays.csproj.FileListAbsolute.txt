@@ -1,0 +1,4 @@
+G:\MyPortfolio\grade 12 portfolio\2d arrays\2d arrays\bin\Debug\2d arrays.exe
+G:\MyPortfolio\grade 12 portfolio\2d arrays\2d arrays\bin\Debug\2d arrays.pdb
+G:\MyPortfolio\grade 12 portfolio\2d arrays\2d arrays\obj\x86\Debug\2d arrays.exe
+G:\MyPortfolio\grade 12 portfolio\2d arrays\2d arrays\obj\x86\Debug\2d arrays.pdb
