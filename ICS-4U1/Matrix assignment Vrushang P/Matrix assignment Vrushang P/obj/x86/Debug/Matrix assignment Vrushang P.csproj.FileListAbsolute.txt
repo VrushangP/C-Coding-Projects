@@ -1,0 +1,5 @@
+G:\MyPortfolio\grade 12 portfolio\Matrix assignment Vrushang P\Matrix assignment Vrushang P\bin\Debug\Matrix assignment Vrushang P.exe
+G:\MyPortfolio\grade 12 portfolio\Matrix assignment Vrushang P\Matrix assignment Vrushang P\bin\Debug\Matrix assignment Vrushang P.pdb
+G:\MyPortfolio\grade 12 portfolio\Matrix assignment Vrushang P\Matrix assignment Vrushang P\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\MyPortfolio\grade 12 portfolio\Matrix assignment Vrushang P\Matrix assignment Vrushang P\obj\x86\Debug\Matrix assignment Vrushang P.exe
+G:\MyPortfolio\grade 12 portfolio\Matrix assignment Vrushang P\Matrix assignment Vrushang P\obj\x86\Debug\Matrix assignment Vrushang P.pdb

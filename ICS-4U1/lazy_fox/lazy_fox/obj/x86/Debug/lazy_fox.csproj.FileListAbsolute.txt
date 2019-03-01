@@ -1,0 +1,4 @@
+G:\MyPortfolio\lazy_fox\lazy_fox\bin\Debug\lazy_fox.exe
+G:\MyPortfolio\lazy_fox\lazy_fox\bin\Debug\lazy_fox.pdb
+G:\MyPortfolio\lazy_fox\lazy_fox\obj\x86\Debug\lazy_fox.exe
+G:\MyPortfolio\lazy_fox\lazy_fox\obj\x86\Debug\lazy_fox.pdb
